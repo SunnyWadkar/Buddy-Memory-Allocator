@@ -1,0 +1,5 @@
+  print           hashtable
+print blocks  
+delete    Death    Note
+ update delete Another  Note<SEP>Genre  <SEP> Anime
+  
